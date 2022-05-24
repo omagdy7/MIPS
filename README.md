@@ -10,6 +10,9 @@ Simple 32-bit MIPS processor using vhdl
 - [Data memory](#data-memory)
 - [Register file](#register-file)
 
+# Archticture
+![image](https://user-images.githubusercontent.com/99906646/169925272-c51d5c75-0630-4509-8841-ee7fe0379ee9.png)
+
 # Program counter
 This is a critical component as this is the component that points to instructions from the instruction memory if the instruction isn't either
 an I-format or J-format the program counter simply goes to the next line by adding four to the current address, however if it's an I-format
