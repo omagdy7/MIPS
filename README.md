@@ -1,14 +1,14 @@
 # Description
 Simple 32-bit MIPS processor using vhdl
 
-- [Program counter](#programcounter)
-- [Instruction memory](#instructionmemory)
+- [Program counter](#program-counter)
+- [Instruction memory](#instruction-memory)
 - [Alu](#alu)
-- [Main controller](#maincontroller)
-- [Alu controller](#alucontroller)
+- [Main controller](#main-controller)
+- [Alu controller](#alu-controller)
 - [Adder](#adder)
-- [Data memory](#datamemory)
-- [Register file](#registerfile)
+- [Data memory](#data-memory)
+- [Register file](#register-file)
 
 # Program counter
 ...
